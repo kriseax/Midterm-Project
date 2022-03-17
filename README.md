@@ -11,3 +11,5 @@ Positions:
 [Middle](https://github.com/JakeSmith1109/Midterm-Project/blob/main/middle.md)
 
 [Libero](https://github.com/JakeSmith1109/Midterm-Project/blob/main/libero.md)
+
+[Setter](https://github.com/JakeSmith1109/Midterm-Project/blob/main/setter.md)
