@@ -6,3 +6,5 @@ Read the introduction, then click the link that correspoonds with which position
 
 [Introduction](https://github.com/JakeSmith1109/Midterm-Project/blob/main/introduction.md)
 
+Positions:
+
