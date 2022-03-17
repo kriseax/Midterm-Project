@@ -7,3 +7,5 @@ Read the [introduction](https://github.com/JakeSmith1109/Midterm-Project/blob/ma
 Positions:
 
 [Outside and Opposite Hitter](https://github.com/JakeSmith1109/Midterm-Project/blob/main/outside_opposite.md)
+
+[Middle](https://github.com/JakeSmith1109/Midterm-Project/blob/main/middle.md)
