@@ -1,4 +1,4 @@
-# Volleyball positions.
+# Volleyball Positions.
 
 This project will teach you all about all of the positions in volleyball!
 
