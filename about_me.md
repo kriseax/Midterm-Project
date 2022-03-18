@@ -12,7 +12,7 @@ I am currently learning Python, JavaScript, and HTML. Here is how I would have c
         </a>.
       </p>
 
-![Screenshot](Documents/Caputre.png)
+![Screenshot](Caputre.png)
 
 Since VS Code will not allow the HTML program to properly display itself without a screenshot.
 
