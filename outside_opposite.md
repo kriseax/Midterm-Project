@@ -14,9 +14,9 @@ For more information about this position, click [here.](https://www.liveabout.co
 
 When you feel as if you're ready to move onto the next position, select one below:
 
-[MIddle](https://github.com/JakeSmith1109/Midterm-Project/blob/main/middle.md)
+[Middle](https://github.com/JakeSmith1109/Midterm-Project/blob/main/middle.md)
 
-[LIbero](https://github.com/JakeSmith1109/Midterm-Project/blob/main/libero.md)
+[Libero](https://github.com/JakeSmith1109/Midterm-Project/blob/main/libero.md)
 
 [Setter](https://github.com/JakeSmith1109/Midterm-Project/blob/main/setter.md)
 

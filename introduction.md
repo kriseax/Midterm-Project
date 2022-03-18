@@ -19,9 +19,9 @@ When you are ready to begin learning, select a position below:
 
 [Outside/Opposite Hitter](https://github.com/JakeSmith1109/Midterm-Project/blob/main/outside_opposite.md)
 
-[MIddle](https://github.com/JakeSmith1109/Midterm-Project/blob/main/middle.md)
+[Middle](https://github.com/JakeSmith1109/Midterm-Project/blob/main/middle.md)
 
-[LIbero](https://github.com/JakeSmith1109/Midterm-Project/blob/main/libero.md)
+[Libero](https://github.com/JakeSmith1109/Midterm-Project/blob/main/libero.md)
 
 [Setter](https://github.com/JakeSmith1109/Midterm-Project/blob/main/setter.md)
 
