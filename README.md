@@ -13,3 +13,5 @@ Positions:
 [Libero](https://github.com/JakeSmith1109/Midterm-Project/blob/main/libero.md)
 
 [Setter](https://github.com/JakeSmith1109/Midterm-Project/blob/main/setter.md)
+
+To learn about this program's creator, click [here.](https://github.com/JakeSmith1109/Midterm-Project/blob/main/about_me.md)
