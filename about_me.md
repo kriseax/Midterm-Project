@@ -11,10 +11,11 @@ I am currently learning Python, JavaScript, and HTML. Here is how I would have c
         <a href="https://usavolleyball.org/play/rules-of-volleyball/">here
         </a>.
       </p>
+    </body>
 
-[Screenshot](https://imgur.com/Edqo0zm) 
 
-Since VS Code will not allow the HTML program to properly display itself without a screenshot.
+
+Since VS Code will not allow the HTML program to properly display itself without a screenshot, click [here](https://imgur.com/cT2dRrm) to see the example.
 
 To go learn about a position, select one below:
 
