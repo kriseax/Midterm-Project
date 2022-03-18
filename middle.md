@@ -2,7 +2,7 @@
 
 In a lineup, there are required to be two middles, but only one is on the court at a time. There is always one in the front row, and the libero passes for the other while they rest.
 
-Almost 100% of the time, the middles are the absolute *worst* and *least reliable* passers and backrow defenders on the team, hence why there is an entire position dedicated to getting them off the court when they rotate into the back row. 
+Almost 100% of the time, the middles are the absolute *worst* and *least reliable* passers and backrow defenders on the team, hence why there is an entire position dedicated to getting them off the court when they rotate into the back row. Since all of their time is dedicated to offense, they are very often named the offensive captain of a team. They are also often the tallest players on the team. Olympic players at this position consistently get up to almost seven feet tall!
 
 When hitting, middles have the most unique set of different hits they can make. They are much quicker than any other set that other positions see, and the middles are always the quickest and most powerful hitters in the lineup. This position gets about a 20% share in offensive hitting opportunities but are a part of a whopping **100%** of defensive block attempts. This is because since they are in the middle of the court, they obviously block the other middle, but are also expected to transition to block the outside and opposite hitters.
 

@@ -26,3 +26,5 @@ When you are ready to begin learning, select a position below:
 [Setter](https://github.com/JakeSmith1109/Midterm-Project/blob/main/setter.md)
 
 Or, go back [home.](https://github.com/JakeSmith1109/Midterm-Project.git)
+
+To learn about this program's creator, click [here.](https://github.com/JakeSmith1109/Midterm-Project/blob/main/about_me.md)
