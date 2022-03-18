@@ -10,6 +10,8 @@ For more information on this position, click [here.](https://www.liveabout.com/l
 
 ![Libero](https://www.paloaltoonline.com/news/photos/2019/august/11/79003_full.jpg)
 
+When you feel as if you're ready to move onto the next position, select one below:
+
 [Setter](https://github.com/JakeSmith1109/Midterm-Project/blob/main/setter.md)
 
 [Outside/Opposite Hitter](https://github.com/JakeSmith1109/Midterm-Project/blob/main/outside_opposite.md)
